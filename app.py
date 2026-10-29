@@ -1,3 +1,5 @@
+# KR2: Harkov
+
 import os
 import socket
 
